@@ -148,29 +148,31 @@ footer{
     text-align: center;
     padding: 10px;
     background-color: aquamarine;
+    padding-bottom: 20px;
 }
 
 .instagram{
-    height: 20px;
-    width: 20px;
+    height: 40px;
+    width: 40px;
 }
 .email{
-    height: 20px;
-    width: 20px;
+    height: 40px;
+    width: 40px;
 }
 .linkedin{
-    height: 20px;
-    width: 20px;
+    height: 40px;
+    width: 40px;
 }
 .instagram:hover{
-    background-color: rgba(192,192,192,1);
-    border-radius: 10px;
+
+    background-color: white;
+    border-radius: 20px;
 }
 .email:hover{
-    background-color: rgba(192,192,192,1);
-    border-radius: 10px;
+    background-color: white;
+    border-radius: 20px;
 }
 .linkedin:hover{
-    background-color: rgba(192,192,192,1);
-    border-radius: 10px;
+    background-color: white;
+    border-radius: 20px;
 }
